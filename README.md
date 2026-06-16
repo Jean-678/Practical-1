@@ -2,9 +2,9 @@
 
 ## Student Information
 
-- Student name: *Name*
+- Student name: Petit
 - Course: ITDI204 Cloud Computing
-- Application: *Name of the application*
+- Application: Practical
 
 ## Cloud Deployment
 
